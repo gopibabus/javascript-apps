@@ -2,6 +2,11 @@ document.addEventListener('DOMContentLoaded', () => {
 	let cardGroup = document.getElementById('card-group');
 	let projects = [
 		{
+			name: `Drag n Drop`,
+			description: `This is a drag n drop app. This will show case how we can implement drag n drop using drag events in vanilla javascript. `,
+			link: `./drag-n-drop`,
+		},
+		{
 			name: `Countdown Timer`,
 			description: `This is a count down timer app. By default it will start with 10 seconds.
             If we have to input our own time, we can. We can pause timer, when ever we need. `,
