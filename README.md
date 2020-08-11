@@ -1,6 +1,6 @@
 ![JavaScript Projects](./assets/images/banner.png)
 
-> This project is curated list of all **apps** that I built using pure JavaScript.
+> This project is a curated list of all **apps** that I built using pure JavaScript.
 
 ### 💡Project ideas
 
